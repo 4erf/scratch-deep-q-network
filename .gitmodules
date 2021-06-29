@@ -1,0 +1,3 @@
+[submodule "scratchNeuralNetwork"]
+	path = scratchNeuralNetwork
+	url = git@github.com:4erf/scratch-neural-network.git
